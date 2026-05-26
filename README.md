@@ -4,6 +4,9 @@ This project contains a Python script, `generate videos.py`, that automatically 
 
 The script is designed for short-form social media content such as TikTok, Instagram Reels, and YouTube Shorts.
 
+<img width="643" height="1036" alt="image" src="https://github.com/user-attachments/assets/846a6cc2-130e-4e71-9471-2027575c98eb" />
+
+
 > Important: this script **does not place trades**. It only connects to MetaTrader 5 to download OHLCV candle data for chart/video generation.
 
 ---
