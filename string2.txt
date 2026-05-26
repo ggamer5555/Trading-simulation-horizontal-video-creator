@@ -1,0 +1,4 @@
+guess the price in 50 bars
+set a take profit and stop loss to see if you will win in the next 50 bars
+will the price be up or down in 50 bars
+where do you think price will go within 50 bars

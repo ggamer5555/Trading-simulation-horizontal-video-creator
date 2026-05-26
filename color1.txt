@@ -1,0 +1,6 @@
+cyan
+magenta
+lime
+yellow
+orange
+white
